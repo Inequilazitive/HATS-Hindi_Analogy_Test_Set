@@ -1,0 +1,196 @@
+You are solving analogy problems presented in Hindi. An analogy is a comparison between two things that are similar in some way.
+
+Follow these main steps:
+1. Translation: Translate the Hindi question and all options to English.
+2. Solution: Solve the translated (english) analogy using only English (detailed below).
+3. Mapping: Map your English answer back to the correct Hindi option.
+
+For the solution process (step 2), follow these sub-steps:
+a) Identify the specific relationship between the first two terms (A and B).
+b) Apply this same relationship to the third term (C) to determine what the fourth term should be.
+c) Examine each of the given options and select the one that best completes the analogy.
+
+IMPORTANT: Use ONLY English words during your solution process (step 2 and its sub-steps).
+Only use Hindi when referring to the original question and when giving your final answer.
+
+For each step, think carefully and consider multiple possible relationships. Be explicit in your reasoning.
+
+Present your final answer in the format: ###Final Answer: (X) option_text
+
+Here are some examples:
+
+Example 1:
+Complete the analogy: गंगा : नदी :: हिमालय : ?
+(A) पर्वत
+(B) देश
+(C) महासागर
+(D) मैदान
+
+Step 1 - Translation:
+Question: Ganga : River :: Himalaya : ?
+Options:
+(A) Mountain
+(B) Country
+(C) Ocean
+(D) Plain
+
+Step 2 - Solution:
+a) Relationship identification: 
+Ganga is a specific river, and River is its category. This is a specific 
+instance to category relationship.
+
+b) Relationship application:
+Now I need to apply this relationship to Himalaya. If Ganga is a specific river, 
+then Himalaya would be a specific instance of what category?
+
+c) Option examination:
+- Mountain: Himalaya is a specific mountain range, so Mountain is its category. This matches the relationship.
+- Country: Himalaya is not a country, it's a geographical feature.
+- Ocean: Himalaya is not a body of water, it's a land formation.
+- Plain: Himalaya is the opposite of a plain; it's an elevated region.
+
+Step 3 - Mapping:
+The answer in English is "Mountain" which corresponds to the Hindi option (A) पर्वत.
+
+###Final Answer: (A) पर्वत
+
+Example 2:
+Complete the analogy: दिल्ली : भारत :: टोक्यो : ?
+(A) चीन
+(B) रूस
+(C) जापान
+(D) कोरिया
+
+Step 1 - Translation:
+Question: Delhi : India :: Tokyo : ?
+Options:
+(A) China
+(B) Russia
+(C) Japan
+(D) Korea
+
+Step 2 - Solution:
+a) Relationship identification:
+Delhi is the capital city of India. This is a capital-country relationship.
+
+b) Relationship application:
+Now I need to apply this relationship to Tokyo. I'm looking for the country of 
+which Tokyo is the capital.
+
+c) Option examination:
+- China: The capital of China is Beijing, not Tokyo.
+- Russia: The capital of Russia is Moscow, not Tokyo.
+- Japan: Tokyo is the capital of Japan. This matches the relationship.
+- Korea: The capitals of North and South Korea are Pyongyang and Seoul respectively, not Tokyo.
+
+Step 3 - Mapping:
+The answer in English is "Japan" which corresponds to the Hindi option (C) जापान.
+
+###Final Answer: (C) जापान
+
+Example 3:
+Complete the analogy: चावल : खेती :: लोहा : ?
+(A) धातु
+(B) खनन
+(C) निर्माण
+(D) व्यापार
+
+Step 1 - Translation:
+Question: Rice : Farming :: Iron : ?
+Options:
+(A) Metal
+(B) Mining
+(C) Construction
+(D) Trade
+
+Step 2 - Solution:
+a) Relationship identification:
+Farming is the process by which Rice is produced or obtained. This is a 
+product-production process relationship.
+
+b) Relationship application:
+Now I need to apply this relationship to Iron. I'm looking for the process by which 
+Iron is produced or obtained.
+
+c) Option examination:
+- Metal: This is a category to which Iron belongs, not a production process.
+- Mining: This is the process by which Iron is obtained from the earth, similar to how Farming is used to obtain Rice. This matches the relationship.
+- Construction: This is a process that uses Iron, not how it's produced.
+- Trade: This relates to the distribution of Iron, not its production.
+
+Step 3 - Mapping:
+The answer in English is "Mining" which corresponds to the Hindi option (B) खनन.
+
+###Final Answer: (B) खनन
+
+Example 4:
+Complete the analogy: साहित्य : पुस्तक :: संगीत : ?
+(A) गाना
+(B) संगीतकार
+(C) वाद्ययंत्र
+(D) धुन
+
+Step 1 - Translation:
+Question: Literature : Book :: Music : ?
+Options:
+(A) Song
+(B) Musician
+(C) Musical instrument
+(D) Tune/Melody
+
+Step 2 - Solution:
+a) Relationship identification:
+Literature is an art form, and a Book is a medium or container through which literature 
+is expressed or consumed. This is an art form-medium relationship.
+
+b) Relationship application:
+Now I need to apply this relationship to Music. If Music is an art form like Literature, 
+then I'm looking for the medium through which music is expressed or consumed.
+
+c) Option examination:
+- Song: A song is a complete unit of musical expression, similar to how a book is a complete unit of literary expression. This matches the relationship.
+- Musician: A musician creates music but is not the medium itself, similar to how an author creates literature but is not the medium.
+- Musical instrument: An instrument is a tool used to create music, not the medium that contains the complete musical expression.
+- Tune/Melody: A tune or melody is a component of music, similar to how a chapter or paragraph is a component of literature, not the complete medium.
+
+Step 3 - Mapping:
+The answer in English is "Song" which corresponds to the Hindi option (A) गाना.
+
+###Final Answer: (A) गाना
+
+Example 5:
+Complete the analogy: शेर : जंगल :: मछली : ?
+(A) पानी
+(B) समुद्र
+(C) नदी
+(D) तालाब
+
+Step 1 - Translation:
+Question: Lion : Jungle :: Fish : ?
+Options:
+(A) Water
+(B) Ocean/Sea
+(C) River
+(D) Pond
+
+Step 2 - Solution:
+a) Relationship identification:
+A jungle is the natural habitat where lions typically live. This is an animal-habitat 
+relationship.
+
+b) Relationship application:
+Now I need to apply this relationship to Fish. I'm looking for the natural habitat 
+where fish typically live.
+
+c) Option examination:
+- Water: While fish live in water, this is too general and not a specific habitat like jungle is for lions.
+- Ocean/Sea: This is a specific habitat where many fish live, similar to how jungle is a specific habitat for lions.
+- River: This is a specific habitat where some fish live, but not as general as ocean/sea for all fish.
+- Pond: This is a specific habitat where some fish live, but not as general as ocean/sea for all fish.
+
+Step 3 - Mapping:
+The answer in English is "Ocean/Sea" which corresponds to the Hindi option (B) समुद्र.
+
+###Final Answer: (B) समुद्र
+
+Now solve the following analogy using the same step-by-step approach. Remember to use ONLY English in your solution process (step 2):

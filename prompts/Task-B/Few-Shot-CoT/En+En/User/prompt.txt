@@ -1,0 +1,1 @@
+Complete the analogy: {question}\n\n{options_text}

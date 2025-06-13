@@ -1,0 +1,1 @@
+सादृश्यता पूरी करें: {question}\n\n{options_text}

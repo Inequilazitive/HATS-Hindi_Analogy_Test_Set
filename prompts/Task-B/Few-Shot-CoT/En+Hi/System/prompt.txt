@@ -1,0 +1,110 @@
+You are solving an analogy problem. An analogy is a comparison between two things that are similar in some way. 
+Your task is to complete the analogy by finding the relationship between the first two terms and applying that same relationship to find what the third term relates to.
+
+Follow these steps to solve the analogy:
+1. First, identify the specific relationship between the first two terms (A and B). Think about how A relates to B.
+2. Next, apply this same relationship to the third term (C) to determine what the fourth term should be.
+3. Finally, examine each of the given options and select the one that best completes the analogy based on the relationship you identified.
+
+For each step, think carefully and consider multiple possible relationships before deciding. Be explicit in your reasoning.
+
+Present your final answer in the format: ###Final Answer: (X) option_text
+
+Here are some examples:
+
+Example 1:
+Complete the analogy: गंगा : नदी :: हिमालय : ?
+(A) पर्वत
+(B) देश
+(C) महासागर
+(D) मैदान
+
+Step 1: First, I need to identify the specific relationship between "गंगा" (Ganga) and "नदी" (river). Ganga is a specific river, and "नदी" is its category or classification. This is a relationship where the first term is a specific example of the second term.
+
+Step 2: Next, I need to apply this same relationship to "हिमालय" (Himalaya). If Himalaya is a specific example like Ganga, then I need to find its category or classification.
+
+Step 3: Finally, let me examine each option:
+- पर्वत (mountain): Himalaya is a specific mountain range, and "पर्वत" is the category "mountain." This follows the same pattern as Ganga and river.
+- देश (country): Himalaya is not a country; it's a geographical feature.
+- महासागर (ocean): Himalaya is not related to water bodies like oceans.
+- मैदान (plain): Himalaya is the opposite of a plain; it's an elevated landform.
+
+###Final Answer: (A) पर्वत
+
+Example 2:
+Complete the analogy: चावल : खेती :: लोहा : ?
+(A) धातु
+(B) खनन
+(C) निर्माण
+(D) व्यापार
+
+Step 1: First, I need to identify the specific relationship between "चावल" (rice) and "खेती" (farming). Rice is an agricultural product that is obtained through the process of farming. This is a relationship between a product and the process used to obtain it.
+
+Step 2: Next, I need to apply this same relationship to "लोहा" (iron). If iron is a product like rice, then I need to find the process used to obtain iron.
+
+Step 3: Finally, let me examine each option:
+- धातु (metal): This describes what iron is (a metal), not how it's obtained.
+- खनन (mining): Mining is the process by which iron is obtained from the earth, just as farming is how rice is obtained. This maintains the same relationship.
+- निर्माण (construction): This is a process that uses iron, not how iron is obtained.
+- व्यापार (trade): This relates to distribution of iron, not its production.
+
+###Final Answer: (B) खनन
+
+Example 3:
+Complete the analogy: दिल्ली : भारत :: टोक्यो : ?
+(A) चीन
+(B) रूस
+(C) जापान
+(D) कोरिया
+
+Step 1: First, I need to identify the specific relationship between "दिल्ली" (Delhi) and "भारत" (India). Delhi is the capital city of India. This is a relationship between a capital city and its country.
+
+Step 2: Next, I need to apply this same relationship to "टोक्यो" (Tokyo). If Tokyo is a capital city like Delhi, then I need to find the country of which Tokyo is the capital.
+
+Step 3: Finally, let me examine each option:
+- चीन (China): The capital of China is Beijing, not Tokyo.
+- रूस (Russia): The capital of Russia is Moscow, not Tokyo.
+- जापान (Japan): Tokyo is the capital of Japan. This maintains the same relationship as Delhi and India.
+- कोरिया (Korea): The capitals of Korea (North or South) are Pyongyang or Seoul, not Tokyo.
+
+###Final Answer: (C) जापान
+
+Example 4:
+Complete the analogy: पेंसिल : लिखना :: कैंची : ?
+(A) पेपर
+(B) काटना
+(C) बनाना
+(D) सीना
+
+Step 1: First, I need to identify the specific relationship between "पेंसिल" (pencil) and "लिखना" (writing). A pencil is a tool used for the action of writing. This is a relationship between a tool and its primary function.
+
+Step 2: Next, I need to apply this same relationship to "कैंची" (scissors). If scissors is a tool like a pencil, then I need to find its primary function.
+
+Step 3: Finally, let me examine each option:
+- पेपर (paper): Paper is an object that is worked upon, not an action.
+- काटना (cutting): Cutting is the primary action for which scissors are used, just as writing is the primary function of a pencil.
+- बनाना (making/creating): Making is not the primary function of scissors.
+- सीना (sewing): Sewing typically uses needle and thread, not scissors.
+
+###Final Answer: (B) काटना
+
+Example 5:
+Complete the analogy: शेर : जंगल :: मछली : ?
+(A) पिंजरा
+(B) समुद्र
+(C) रेगिस्तान
+(D) खेत
+
+Step 1: First, I need to identify the specific relationship between "शेर" (lion) and "जंगल" (jungle/forest). A jungle is the natural habitat or environment where lions live. This is a relationship between an animal and its natural habitat.
+
+Step 2: Next, I need to apply this same relationship to "मछली" (fish). If fish is an animal like a lion, then I need to find its natural habitat.
+
+Step 3: Finally, let me examine each option:
+- पिंजरा (cage): A cage is an artificial environment where animals are kept, not the natural habitat for fish.
+- समुद्र (sea/ocean): The sea/ocean is the natural aquatic environment where most fish live, just as the jungle is the natural habitat for lions.
+- रेगिस्तान (desert): A desert is a dry environment that is not suitable for fish.
+- खेत (field/farm): A field is agricultural land and not the natural habitat for fish.
+
+###Final Answer: (B) समुद्र
+
+Now solve the following analogy using this three-step approach:

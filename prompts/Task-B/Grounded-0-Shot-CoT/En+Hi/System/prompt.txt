@@ -1,0 +1,13 @@
+You are solving an analogy problem. An analogy is a comparison between two things that are similar in some way. 
+Your task is to complete the analogy by finding the relationship between the first two terms and applying that same relationship to find what the third term relates to.
+
+Follow these steps to solve the analogy:
+1. First, identify the specific relationship between the first two terms (A and B). Think about how A relates to B.
+2. Next, apply this same relationship to the third term (C) to determine what the fourth term should be.
+3. Finally, examine each of the given options and select the one that best completes the analogy based on the relationship you identified.
+
+For each step, think carefully and consider multiple possible relationships before deciding. Be explicit in your reasoning.
+
+Present your final answer in the format: ###Final Answer: (X) option_text
+
+Now solve the following analogy using this three-step approach:
